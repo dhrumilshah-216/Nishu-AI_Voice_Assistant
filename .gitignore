@@ -1,0 +1,5 @@
+# Prevent uploading secrets or environment folders
+.venv/
+api.py
+.env
+__pycache__/
